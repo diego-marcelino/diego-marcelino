@@ -1,23 +1,16 @@
 # Hi there, I'm Diego Marcelino 👋
 
-- 🌱 I’m currently learning machine learning and data science
-- 💬 Ask me about anything. If I don't know the answer, we may find out together
-- 📫 How to reach me: send me a Linkedin message
-- ⚡ Fun fact: I alwyas commit typo mitsake :D
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Back End-Python-f55247"/>
+  <a href="https://github.com/diego-marcelino/"><img src="https://img.shields.io/github/followers/diego-marcelino?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <img src="http://views.whatilearened.today/views/github/diego-marcelino/views.svg"/>
+</p>
 
-## Connect with me:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diego-marcelino&show_icons=true&theme=nord)
 
-[<img align="left" alt="diegomarcelino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-marcelino&layout=compact&theme=nord&hide=TSQL,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
-### Languages and Tools:
+<!-- Languages and Tools -->
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
 
@@ -45,6 +38,29 @@
 
 [<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]()
 
+<!-- End Languages and Tools -->
+
+<br />
+<br />
+
+---
+
+- 🌱 I’m currently learning machine learning and data science
+- 💬 Ask me about anything. If I don't know the answer, we may find out together
+- 📫 How to reach me: send me a Linkedin message
+- ⚡ Fun fact: I alwyas commit typo mitsake :D
+<!--
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
+-->
+
+## Connect with me
+
+[<img align="left" alt="diegomarcelino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 <br />
 
 <!-- ## 📕 Latest Linkedin Posts
